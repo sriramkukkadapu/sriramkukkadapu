@@ -21,7 +21,7 @@ Also did excellent contribution to Recruitment in current organisation in drivin
 Travelled wot Waldorf Germany (SAP Headquarters) for organising Customer/Partner Testing workshop which happened from Sep 18 to Oct 1st 2016.
 
 - <b>COMMUNITY CONTRIBUTION:</b><br>
-Contributing to QA community by maintaining a Job group of 50K+ QA's across India , 1+ lac Freshers and Sharing daily job updates there through which many people got new jobs and being a great help in their career.
+Contributing to QA community by maintaining a Job group of 50K+ QA's across India , 1+ lac Freshers and Sharing daily job updates there through which many people got new jobs and being a great help in their career.<br><br>
 QA Blog: https://sriramkukkadapu.blogspot.com/p/testing-jobs.html <br>
 QA Google Group: https://groups.google.com/g/testing-experienced-openings <br>
 Freshers IT Jobs Blog: https://sriramkukkadapu.blogspot.com/p/fresher-jobs.html <br>
