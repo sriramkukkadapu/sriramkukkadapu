@@ -1,5 +1,5 @@
 ## <b>INTRO:</b><br>
-A Senior Quality Specialist (Automation and Manual) with 10+ years of IT experience as a QA, proficient in testing Web based applications. Expert in Automation Testing (Java, Selenium WebDriver, TestNG, Cucumber, WebdriverIO), API Automation(Rest-Assured, SuperTest, Postman), and Manual Testing. 
+A <b>Senior Quality Specialist</b> (Automation and Manual) with <b>10+ years of IT experience</b> as a QA, proficient in testing Web based applications. Expert in Automation Testing (Java, Selenium WebDriver, TestNG, Cucumber, WebdriverIO), API Automation(Rest-Assured, SuperTest, Postman), and Manual Testing. 
 Collaborative team work abilities with leadership experience in managing technical teams, mentoring and training up new QA team members. Proficient in software issues identification, reporting and documentation.
 
 
