@@ -19,6 +19,10 @@ Also did excellent contribution to Recruitment in current organisation in drivin
 
 ## <b>ONSITE EXPERIENCE:</b><br>
 Travelled wot Waldorf Germany (SAP Headquarters) for organising Customer/Partner Testing workshop which happened from Sep 18 to Oct 1st 2016.
+- It is a 2-week workshop where Delegates are invited to test the Latest features of the Product.
+- Prepared Test data, Authored New Feature documents, created users and assigned required roles.
+- Received good feedback on the entire workshop, and everyone mentioned they had great experience.
+
 
 ## <b>COMMUNITY CONTRIBUTION:</b><br>
 Contributing to QA community by maintaining a Job group of 50K+ QA's across India , 1+ lac Freshers and Sharing daily job updates there through which many people got new jobs and being a great help in their career.<br><br>
