@@ -12,6 +12,7 @@ Collaborative team work abilities with leadership experience in managing technic
 <tr><td><b>Test Management</b> :</td> <td>JIRA | QMetry | Confluence </td> </tr>
 <tr><td><b>Project Management</b> :</td> <td>Waterfall | Agile </td> </tr>
 <tr><td><b>CI/CD Pipelines</b> :</td> <td>Gitlab | Github actions CI </td> </tr>
+</table>
 
 ## <b>RECRUITMENT:</b><br>
 Also did excellent contribution to Recruitment in current organisation in driving hiring workshops, taking interviews, referring candidates for open positions and bringing good talent into the company.
