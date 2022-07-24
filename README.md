@@ -15,11 +15,6 @@
 
 [<img align="left" alt="sriramkukkadapu | Blog" width="30px" src="https://github.com/sriramkukkadapu/sriramkukkadapu/blob/master/images/facebook%20icon.png?raw=true" />][facebook]
 
-[linkedin]: https://www.linkedin.com/in/sriramku
-[github]:  https://github.com/sriramkukkadapu
-[blogger]: https://sriramkukkadapu.blogspot.com
-[facebook]: https://www.facebook.com/sriram.fj
-
 
 ### <b>TECHNICAL SKILLS:</b> <br>
 <table borders=false>
@@ -31,3 +26,12 @@
 <tr><td><b>Project Management</b> :</td> <td>Waterfall | Agile </td> </tr>
 <tr><td><b>CI/CD Pipelines</b> :</td> <td>Gitlab | Github actions CI </td> </tr>
 </table>
+
+
+
+[linkedin]: https://www.linkedin.com/in/sriramku
+[github]:  https://github.com/sriramkukkadapu
+[blogger]: https://sriramkukkadapu.blogspot.com
+[facebook]: https://www.facebook.com/sriram.fj
+
+
