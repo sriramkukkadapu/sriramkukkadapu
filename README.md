@@ -4,11 +4,13 @@ Collaborative team work abilities with leadership experience in managing technic
 
 
 ## <b>TECHNICAL SKILLS:</b> <br>
-- <b>Languages</b> : Java | JavaScript <br> 
-- <b>API Testing Tools</b> : SuperTest| REST Assured | Postman/Newman <br>
-- <b>UI Automation Tools</b> : Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai <br>
-- <b>Mobile Automation Tools</b> : Appium | Android Studio | XCode <br>
-- <b>Test Management Tools</b> : JIRA | QMetry | Confluence <br>
+<table>
+<tr>- <td><b>Languages</b> :</td> <td>Java | JavaScript </td> </tr>
+</table>
+- <b>API Testing </b> : SuperTest| REST Assured | Postman/Newman <br>
+- <b>UI Automation </b> : Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai <br>
+- <b>Mobile Automation </b> : Appium | Android Studio | XCode <br>
+- <b>Test Management </b> : JIRA | QMetry | Confluence <br>
 - <b>Project Management</b> : Waterfall | Agile <br>
 - <b>CI/CD Pipelines</b> : Gitlab | Github actions CI <br>
 
