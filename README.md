@@ -6,13 +6,13 @@ Collaborative team work abilities with leadership experience in managing technic
 
 
 - <b>TECHNICAL SKILLS:</b>
-Languages - Java | JavaScript
-API Testing Tools - SuperTest| REST Assured | Postman/Newman
-UI Automation Tools - Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai
-Mobile Automation Tools - Appium | Android Studio | XCode
-Test Management Tools - JIRA | QMetry | Confluence
-Project Management - Waterfall | Agile
-CI/CD Pipelines - Gitlab | Github actions CI
+Languages - Java | JavaScript <br> 
+API Testing Tools - SuperTest| REST Assured | Postman/Newman <br>
+UI Automation Tools - Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai <br>
+Mobile Automation Tools - Appium | Android Studio | XCode <br>
+Test Management Tools - JIRA | QMetry | Confluence <br>
+Project Management - Waterfall | Agile <br>
+CI/CD Pipelines - Gitlab | Github actions CI <br>
 
 - <b>RECRUITMENT:</b>
 Also did excellent contribution to Recruitment in current organisation in driving hiring workshops, taking interviews and bringing good talent into the company.
@@ -23,8 +23,8 @@ Travelled wot Waldorf Germany (SAP Headquarters) for organising Customer/Partner
 - <b>COMMUNITY CONTRIBUTION:</b>
 Contributing to QA community by maintaining a Job group of 50K+ QA's across India , 1+ lac Freshers and Sharing daily job updates there through which many people got new jobs and being a great help in their career.
 
-QA Blog: https://sriramkukkadapu.blogspot.com/p/testing-jobs.html
-QA Google Group: https://groups.google.com/g/testing-experienced-openings
-Freshers IT Jobs Blog: https://sriramkukkadapu.blogspot.com/p/fresher-jobs.html
-Freshers Non IT Jobs Blog: https://sriramkukkadapu.blogspot.com/p/fresher-non-it-jobs.html
-Freshers Google Group: https://groups.google.com/g/freshersjobupdatessk
+QA Blog: https://sriramkukkadapu.blogspot.com/p/testing-jobs.html <br>
+QA Google Group: https://groups.google.com/g/testing-experienced-openings <br>
+Freshers IT Jobs Blog: https://sriramkukkadapu.blogspot.com/p/fresher-jobs.html <br>
+Freshers Non IT Jobs Blog: https://sriramkukkadapu.blogspot.com/p/fresher-non-it-jobs.html <br>
+Freshers Google Group: https://groups.google.com/g/freshersjobupdatessk <br>
