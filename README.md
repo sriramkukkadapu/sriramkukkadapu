@@ -5,20 +5,13 @@ Collaborative team work abilities with leadership experience in managing technic
 
 ## <b>TECHNICAL SKILLS:</b> <br>
 <table borders=false>
-<tr>- <td><b>Languages</b> :</td> <td>Java | JavaScript </td> </tr>
-<tr>- <td><b>API Testing</b> :</td> <td>SuperTest| REST Assured | Postman/Newman </td> </tr>
-<tr>- <td><b>UI Automation</b> :</td> <td>Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai </td> </tr>
-<tr>- <td><b>Mobile Automation</b> :</td> <td>Appium | Android Studio | XCode </td> </tr>
-<tr>- <td><b>Test Management</b> :</td> <td>JIRA | QMetry | Confluence </td> </tr>
-<tr>- <td><b>Project Management</b> :</td> <td>Waterfall | Agile </td> </tr>
-<tr>- <td><b>CI/CD Pipelines</b> :</td> <td>Gitlab | Github actions CI </td> </tr>
-</table>
-<tr>- <td><b>API Testing </b> : SuperTest| REST Assured | Postman/Newman <br>
-- <b>UI Automation </b> : Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai <br>
-- <b>Mobile Automation </b> : Appium | Android Studio | XCode <br>
-- <b>Test Management </b> : JIRA | QMetry | Confluence <br>
-- <b>Project Management</b> : Waterfall | Agile <br>
-- <b>CI/CD Pipelines</b> : Gitlab | Github actions CI <br>
+<tr><td><b>Languages</b> :</td> <td>Java | JavaScript </td> </tr>
+<tr><td><b>API Testing</b> :</td> <td>SuperTest| REST Assured | Postman/Newman </td> </tr>
+<tr><td><b>UI Automation</b> :</td> <td>Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai </td> </tr>
+<tr><td><b>Mobile Automation</b> :</td> <td>Appium | Android Studio | XCode </td> </tr>
+<tr><td><b>Test Management</b> :</td> <td>JIRA | QMetry | Confluence </td> </tr>
+<tr><td><b>Project Management</b> :</td> <td>Waterfall | Agile </td> </tr>
+<tr><td><b>CI/CD Pipelines</b> :</td> <td>Gitlab | Github actions CI </td> </tr>
 
 ## <b>RECRUITMENT:</b><br>
 Also did excellent contribution to Recruitment in current organisation in driving hiring workshops, taking interviews, referring candidates for open positions and bringing good talent into the company.
