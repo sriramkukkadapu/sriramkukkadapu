@@ -18,10 +18,7 @@ Collaborative team work abilities with leadership experience in managing technic
 Also did excellent contribution to Recruitment in current organisation in driving hiring workshops, taking interviews, referring candidates for open positions and bringing good talent into the company.
 
 ## <b>ONSITE EXPERIENCE:</b><br>
-Travelled wot Waldorf Germany (SAP Headquarters) for organising Customer/Partner Testing workshop which happened from Sep 18 to Oct 1st 2016.
-- It is a 2-week workshop where Delegates are invited to test the Latest features of the Product.
-- Prepared Test data, Authored New Feature documents, created users and assigned required roles.
-- Received good feedback on the entire workshop, and everyone mentioned they had great experience.
+Travelled wot Waldorf Germany (SAP Headquarters) for organising Customer/Partner Testing workshop which happened from Sep 18 to Oct 1st 2016. It is a 2-week workshop where Delegates are invited to test the Latest features of the Product.
 
 
 ## <b>COMMUNITY CONTRIBUTION:</b><br>
