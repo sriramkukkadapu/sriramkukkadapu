@@ -1,6 +1,6 @@
 ### A Quality Analyst
-- 🔭 These days I'm working in ThoughtWorks in a Retail project as a QA
-- 🌱 Earlier worked in Product based companies like SAP Labs India and Oracle.
+- 🔭 These days I'm <b>working in ThoughtWorks</b> in a Retail project as a QA
+- 🌱 Earlier worked in Product based companies like <b> SAP Labs India and Oracle</b>.
 - 👯 I’m looking to collaborate with people that want to make a change in this world.
 - 🥅 Goals: Contribute more to Job searching eco system
 
