@@ -22,7 +22,7 @@ Travelled wot Waldorf Germany (SAP Headquarters) for organising Customer/Partner
 
 
 ## <b>COMMUNITY CONTRIBUTION:</b><br>
-Contributing to QA community by maintaining a Job group of 50K+ QA's across India , 1+ lac Freshers and Sharing daily job updates there through which many people got new jobs and being a great help in their career.<br><br>
+Contributing to QA community by maintaining a Job group of 50K+ QA's across India , 1+ lac Freshers and Sharing daily job updates there through which many people got new jobs and being a great help in their career.<br>
 <b>
 - <a href="https://sriramkukkadapu.blogspot.com/p/testing-jobs.html"> QA Blog </a> <br>
 - <a href="https://groups.google.com/g/testing-experienced-openings"> QA Google Group - 55k+ members</a> <br>
