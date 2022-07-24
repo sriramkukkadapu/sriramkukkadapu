@@ -21,7 +21,7 @@
 [facebook]: https://www.facebook.com/sriram.fj
 
 
-## <b>TECHNICAL SKILLS:</b> <br>
+### <b>TECHNICAL SKILLS:</b> <br>
 <table borders=false>
 <tr><td><b>Languages</b> :</td> <td>Java | JavaScript </td> </tr>
 <tr><td><b>API Testing</b> :</td> <td>SuperTest| REST Assured | Postman/Newman </td> </tr>
