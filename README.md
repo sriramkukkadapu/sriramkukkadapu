@@ -19,3 +19,15 @@
 [github]:  https://github.com/sriramkukkadapu
 [blogger]: https://sriramkukkadapu.blogspot.com
 [facebook]: https://www.facebook.com/sriram.fj
+
+
+## <b>TECHNICAL SKILLS:</b> <br>
+<table borders=false>
+<tr><td><b>Languages</b> :</td> <td>Java | JavaScript </td> </tr>
+<tr><td><b>API Testing</b> :</td> <td>SuperTest| REST Assured | Postman/Newman </td> </tr>
+<tr><td><b>UI Automation</b> :</td> <td>Selenium | WebdriverIO | TestNG | Cucumber | Mocha| Chai </td> </tr>
+<tr><td><b>Mobile Automation</b> :</td> <td>Appium | Android Studio | XCode </td> </tr>
+<tr><td><b>Test Management</b> :</td> <td>JIRA | QMetry | Confluence </td> </tr>
+<tr><td><b>Project Management</b> :</td> <td>Waterfall | Agile </td> </tr>
+<tr><td><b>CI/CD Pipelines</b> :</td> <td>Gitlab | Github actions CI </td> </tr>
+</table>
