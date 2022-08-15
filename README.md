@@ -34,5 +34,6 @@
 [blogger]: https://sriramkukkadapu.blogspot.com
 [facebook]: https://www.facebook.com/sriram.fj
 
+<br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sriramkukkadapu&show_icons=true&locale=en&theme=tokyonight" alt="sriramkukkadapu" /></p>
