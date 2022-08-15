@@ -1,5 +1,5 @@
 ### A Quality Analyst with 10+ years of IT industry experience <br>
-- 🔭 These days I'm <b>working in ThoughtWorks</b> in a Retail project as a QA
+- 🔭 These days I'm <b>working in ThoughtWorks</b> as a QA
 - 🌱 Earlier worked in Product based companies like <b> SAP Labs India and Oracle</b>.
 - 👯 I’m looking to collaborate with people that want to make a change in this world.
 - 🥅 Goals: Contribute more to Job searching eco system
