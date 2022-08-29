@@ -9,7 +9,7 @@
 ### Technical Skills:
 <table borders=false>
 <tr><td><b>Languages</b> :</td> <td>Java | JavaScript </td> </tr>
-<tr><td><b>API Testing</b> :</td> <td> SuperTest| REST Assured | Postman/Newman </td> </tr>
+<tr><td><b>API Testing</b> :</td> <td> Postman | Newman | REST Assured | SuperTest </td> </tr>
 <tr><td><b>UI Automation</b> :</td> <td>Selenium | WebdriverIO | TestNG | Cucumber | Mocha | Chai </td> </tr>
 <tr><td><b>Mobile Automation</b> :</td> <td>Appium | Android Studio | XCode </td> </tr>
 <tr><td><b>Performance Testing</b> :</td> <td>JMeter </td> </tr>
